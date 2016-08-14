@@ -1,0 +1,16 @@
+{
+  "name": "photonsoft/pack",
+  "type": "library",
+  "description": "Extension packages for photon-framework",
+  "keywords": ["photon", "extensions", "packages"],
+  "license": "GNU GPL",
+  "authors": [
+    {
+      "name": "argab",
+      "email": "photonsoft16@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
